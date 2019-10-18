@@ -8,6 +8,12 @@
     "start": "node server.js"
 },
 
+"repository" : 
+{
+"type" : "git",
+"url" : "https://github.com/MAHALAKSHMIKONGARI/my-server"
+},
+
     "author": "Maha Lakshmi Kongari",
     "license": "ISC"
-  }
+}
